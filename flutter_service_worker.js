@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "151132ba758f51ba81da6d7bd815fb76",
-"assets/AssetManifest.bin.json": "9ab290eb11ae2d7ac3e9340b6b8cd21a",
+const RESOURCES = {"assets/AssetManifest.bin": "30847ffad71a2b7478c75c9919385855",
+"assets/AssetManifest.bin.json": "1c60ed0aa57de8314c2a64261aab85e5",
 "assets/assets/brand/favicon-96x96.png": "bf703a9c970c75832aa46781c0e8ba0f",
 "assets/assets/brand/favicon.svg": "fd02344d2b98c2c0b09bc957947d9296",
 "assets/assets/brand/logo.jpg": "68665526a9a43457135c77160bf46a23",
@@ -33,10 +33,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "151132ba758f51ba81da6d7bd815fb76
 "assets/assets/images/thatR1bro_2.jpg": "837fe853fa8821c286e906532c279b44",
 "assets/assets/images/turtle_v1.jpg": "cf6992557feeccb77d84850c1edc482e",
 "assets/assets/videos/MotoAmerica.mp4": "67548499bfc31fcac23755b85febb107",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/FontManifest.json": "c75f7af11fb9919e042ad2ee704db319",
 "assets/fonts/MaterialIcons-Regular.otf": "822d025617cd0168149a60aecc642b9d",
-"assets/NOTICES": "52294db5a7ca510cff372ed4c9e017ba",
+"assets/NOTICES": "0b9c09c1e16d52c34c376a62a666dc61",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
+"assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Brands-Regular-400.otf": "99f46aad6886050f9600bf2d2e188a85",
+"assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Free-Regular-400.otf": "b2703f18eee8303425a5342dba6958db",
+"assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Free-Solid-900.otf": "5b8d20acec3e57711717f61417c1be44",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
 "canvaskit/canvaskit.js": "8331fe38e66b3a898c4f37648aaf7ee2",
@@ -53,13 +56,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "151132ba758f51ba81da6d7bd815fb76
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.ico": "dd9bb25cf4062de2ffba80a5283d7e26",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "55998c3d2d59a0d855ac333c90a60d3f",
+"flutter_bootstrap.js": "f8e4fd83c856b5b1a69a18d7438a6a4a",
 "icons/apple-touch-icon.png": "13d52d218839c47b2981146998bedfcf",
 "icons/Icon-maskable-192.png": "83e3bee8bd800d64f7b812d260ca97ca",
 "icons/Icon-maskable-512.png": "f55d057e6cf4f94e69b98e1b7a10d04f",
 "index.html": "644202369d133923c56f5162a17514ee",
 "/": "644202369d133923c56f5162a17514ee",
-"main.dart.js": "4ab4fd7f4a48f955eb3ad18f87bda798",
+"main.dart.js": "064fff11ed0f545ad5c3043dc6aeb755",
 "manifest.json": "a38ac2593cb17f122925e44b33d4f5c5",
 "version.json": "b1bd36b650c7d7a1797138148754154e"};
 // The application shell files that are downloaded before a service worker can
